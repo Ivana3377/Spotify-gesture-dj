@@ -1,12 +1,3 @@
-Gesture DJ for Spotify
-- This is a Python project that uses computer vision and hand tracking to control Spotify playback through hand gestures. Built with OpenCV, MediaPipe, and the Spotify Web API.
-
-Features:
-- Frat Flick: Starts playback of a selected Spotify playlist
-- Open palm: Pauses Spotify playback. 
-- Three-finger gesture: Skips to the next song. 
-- Real-time hand tracking: Detects hand landmarks through a webcam and displays a visual hand skeleton.
-
 Requirements
 - Python 3.14 (the version used during development; compatibility may vary by package version)\
 - A Spotify account with access to playback controls 
