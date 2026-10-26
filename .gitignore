@@ -1,0 +1,22 @@
+
+# Personal credentials — NEVER upload these
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Spotify authentication cache
+.cache
+
+# macOS files
+.DS_Store
